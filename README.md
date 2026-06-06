@@ -95,27 +95,7 @@ streamlit run app.py
 
 
 
-## Demo Screenshots
 
-### Home Page
-
-![Home](Screenshots/home.png)
-
-### Image Emotion Detection
-
-![Image Demo](Screenshots/image_demo1.png)
-
-### Text Emotion Detection
-
-![Text Demo](Screenshots/text_demo1.png)
-
-### Audio Emotion Detection
-
-![Audio Demo](Screenshots/audio_demo1.png)
-
-### Fusion Prediction
-
-![Fusion Demo](Screenshots/fusion_demo.png)
 
 ## Demo Video
 
