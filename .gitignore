@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+
+venv/
+.env
+
+data/audio/
+data/image/
+data/raw_audio/
+
+*.pth
+*.pt
+
+.streamlit/
