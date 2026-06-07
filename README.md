@@ -117,9 +117,9 @@ https://drive.google.com/file/d/1D3NSU6uhZGbeKQ3OVp9nB7N4FFCjRAJQ/view?usp=shari
 
 **Bavatharani V**
 
-Bachelor of Engineering (CSE)
+Bachelor of Engineering (IT)
 
-Final Year Project – EmotionSense-AI
+Project – EmotionSense-AI
 
 
 
